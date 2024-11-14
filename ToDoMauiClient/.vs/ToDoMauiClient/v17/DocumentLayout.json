@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\pages\\managetodopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\pages\\managetodopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\pages\\managetodopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\pages\\managetodopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\models\\todobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\models\\todobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\dataservices\\restdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\dataservices\\restdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\dataservices\\irestdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\dataservices\\irestdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\collectionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\collectionview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\platforms\\android\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\platforms\\android\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|c:\\users\\praktyka\\desktop\\dawid\\todomauiclient\\todomauiclient\\todomauiclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C104EA4C-7123-4C06-A846-A9DD091856DE}|ToDoMauiClient\\ToDoMauiClient.csproj|solutionrelative:todomauiclient\\todomauiclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoBase.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Models\\ToDoBase.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\Models\\ToDoBase.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Models\\ToDoBase.cs",
+              "RelativeToolTip": "ToDoMauiClient\\Models\\ToDoBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:13:20.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageToDoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Pages\\ManageToDoPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\Pages\\ManageToDoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Pages\\ManageToDoPage.xaml.cs",
+              "RelativeToolTip": "ToDoMauiClient\\Pages\\ManageToDoPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:34:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\AppShell.xaml.cs",
+              "RelativeToolTip": "ToDoMauiClient\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:06:06.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\DataServices\\RestDataService.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\DataServices\\RestDataService.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\DataServices\\RestDataService.cs",
+              "RelativeToolTip": "ToDoMauiClient\\DataServices\\RestDataService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:31:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\MainPage.xaml.cs",
+              "RelativeToolTip": "ToDoMauiClient\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:10:01.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageToDoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Pages\\ManageToDoPage.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\Pages\\ManageToDoPage.xaml",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Pages\\ManageToDoPage.xaml",
+              "RelativeToolTip": "ToDoMauiClient\\Pages\\ManageToDoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T12:34:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\MainPage.xaml",
+              "RelativeToolTip": "ToDoMauiClient\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T07:10:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRestDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\DataServices\\IRestDataService.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\DataServices\\IRestDataService.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\DataServices\\IRestDataService.cs",
+              "RelativeToolTip": "ToDoMauiClient\\DataServices\\IRestDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:28:07.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Models\\ToDo.cs",
+              "RelativeToolTip": "ToDoMauiClient\\Models\\ToDo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:12:13.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "collectionView.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\collectionView.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\collectionView.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\collectionView.cs",
+              "RelativeToolTip": "ToDoMauiClient\\collectionView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:56:15.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "network_security_config.xml",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeToolTip": "ToDoMauiClient\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-13T09:25:14.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\MauiProgram.cs",
+              "RelativeToolTip": "ToDoMauiClient\\MauiProgram.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:20:30.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "ToDoMauiClient\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-13T09:26:14.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToDoMauiClient.csproj",
+              "DocumentMoniker": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\ToDoMauiClient.csproj",
+              "RelativeDocumentMoniker": "ToDoMauiClient\\ToDoMauiClient.csproj",
+              "ToolTip": "C:\\Users\\Praktyka\\Desktop\\Dawid\\ToDoMauiClient\\ToDoMauiClient\\ToDoMauiClient.csproj",
+              "RelativeToolTip": "ToDoMauiClient\\ToDoMauiClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T07:10:09.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
